@@ -1,2 +1,2 @@
-First text in Bob! From master branch.only master changes will remain
+First text in Bob! From master branch.only master changes will remain?
 
